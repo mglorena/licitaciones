@@ -31,7 +31,7 @@ def generaTablaObras(csv):
     return text
 def generaContentFormObra(row):
     import csv
-    html="html de obra\n"
+    html="html de obra\n" #testo
     file = row[0]+"_FormObra.csv"
     with open(file) as File:  
         reader = csv.reader(File, delimiter=';', quotechar='"')
