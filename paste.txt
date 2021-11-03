@@ -1,0 +1,9 @@
+<select name="localidadesprovince">
+    <option value="0: null">-</option>
+    <option value="1: 1"> Capital</option>
+    <option value="2: 2"> Orán </option>
+    <option value="3: 2"> Tartagal </option>
+    <option value="4: 2"> Cafayate </option>
+    <option value="5: 2"> Metán </option>
+    <option value="6: 2"> Rosario de la Frontera</option>
+</select>
